@@ -1,0 +1,1 @@
+# mean-prototype-vagrant
